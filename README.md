@@ -8,7 +8,7 @@ Vue3.0
 
 #### 使用说明
 
-1.  https://gitee.com/chylee/vue3-admin-chylee.git
+1.  git clone https://gitee.com/chylee/vue3-admin-chylee.git
 2.  npm install
 3.  npm run serve
 
